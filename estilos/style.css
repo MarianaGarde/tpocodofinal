@@ -49,7 +49,8 @@
     flex-wrap: wrap;
   }
   body {
-    background-color: rgb(250, 225, 4);
+    background-image: url("imagenes/1222.jpg");
+    background-repeat: no-repeat;
   }
   
   p {
