@@ -109,6 +109,7 @@
   textarea {
     border-radius: 7px;
     border-width: 1px;
+    width: 380px;
   }
   footer {
       font-family: 'Montserrat' ;
