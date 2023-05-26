@@ -114,6 +114,9 @@
       font-family: 'Montserrat' ;
       font-size: smaller;
   }
+  iframe{
+    width: 100%
+  }
   
 }
 
@@ -315,6 +318,9 @@
   .iframe {
     grid-column: 2 ;
     grid-row: 1;
+  }
+  iframe{
+    width: 100%;
   }
   #logo{
     width: 150px;
