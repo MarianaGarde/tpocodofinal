@@ -73,23 +73,19 @@
     justify-content:center;
     flex-wrap: wrap;
   }
-  
   #uno:hover{
-    transform: scale(2, 2);
-    border: 7px solid rgb(253, 192, 143);
+    transform: scale(1.2, 1.2);
   }
   #dos:hover{
-    transform: scale(2, 2);
-    border: 7px solid rgb(253, 192, 143);
+    transform: scale(1.2, 1.2);
     animation-name: carrusel;
   }
   #tres:hover{
-    transform: scale(2, 2);
-    border: 7px solid rgb(253, 192, 143);
+    transform: scale(1.2, 1.2);
+    
   }
   #cuatro:hover{
-    transform: scale(2, 2);
-    border: 7px solid rgb(253, 192, 143);
+    transform: scale(1.2, 1.2);
   }
   .contacto{
     padding-top: 20px;
@@ -181,23 +177,19 @@
       justify-content:center;
       flex-wrap: wrap;
     }
-    
     #uno:hover{
-      transform: scale(2, 2);
-      border: 7px solid rgb(253, 192, 143);
+      transform: scale(1.2, 1.2);
     }
     #dos:hover{
-      transform: scale(2, 2);
-      border: 7px solid rgb(253, 192, 143);
+      transform: scale(1.2, 1.2);
       animation-name: carrusel;
     }
     #tres:hover{
-      transform: scale(2, 2);
-      border: 7px solid rgb(253, 192, 143);
+      transform: scale(1.2, 1.2);
+      
     }
     #cuatro:hover{
-      transform: scale(2, 2);
-      border: 7px solid rgb(253, 192, 143);
+      transform: scale(1.2, 1.2);
     }
     .contacto{
       padding-top: 20px;
@@ -292,21 +284,18 @@
   }
   
   #uno:hover{
-    transform: scale(2, 2);
-    border: 7px solid rgb(253, 192, 143);
+    transform: scale(1.2, 1.2);
   }
   #dos:hover{
-    transform: scale(2, 2);
-    border: 7px solid rgb(253, 192, 143);
+    transform: scale(1.2, 1.2);
     animation-name: carrusel;
   }
   #tres:hover{
-    transform: scale(2, 2);
-    border: 7px solid rgb(253, 192, 143);
+    transform: scale(1.2, 1.2);
+    
   }
   #cuatro:hover{
-    transform: scale(2, 2);
-    border: 7px solid rgb(253, 192, 143);
+    transform: scale(1.2, 1.2);
   }
   .form{
     display: grid;
@@ -358,5 +347,10 @@
     a {
       text-decoration: none;
       color: black;
+    }
+    .galeria{
+      width: 700px;
+      height: 300px;
+      display: flex;
     }
 }
